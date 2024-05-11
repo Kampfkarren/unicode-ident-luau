@@ -2,7 +2,7 @@
 
 Implementation of [Unicode Standard Annex #31](https://www.unicode.org/reports/tr31/) for detecting "general-purpose identifiers, immutable identifiers, hashtag identifiers, and in pattern-based syntax". Tested on Unicode 15.0.0.
 
-Port of [https://github.com/dtolnay/unicode-ident].
+Port of [https://github.com/dtolnay/unicode-ident](dtolnay/unicode-ident).
 
 ## Usage
 
